@@ -17,6 +17,7 @@ it is done by using curl
 
 # Usage
   *curl wttr.in/Kolkata*
+    *curl wttr.in/name of city*
 
 # Original
   *https://github.com/chubin/wttr.in*
