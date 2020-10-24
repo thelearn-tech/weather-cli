@@ -36,9 +36,7 @@ just type *weather* in your terminal
 # Usage
   *curl wttr.in/Kolkata*
 
-
-
-    *curl wttr.in/name of city*
+*curl wttr.in/name of city*
 
 # Original
   *https://github.com/chubin/wttr.in*
