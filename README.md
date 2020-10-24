@@ -13,10 +13,31 @@ it is done by using curl
 **Termux** *pkg install curl*
 
 **Other os** *sudo apt-get install curl*
+# make weather a internal command
+ *nano weather* 
+Will create a new file called weather
+ ![alt text](https://i.ibb.co/myMf1m2/nano-weather.jpg)
+
+In nano weather type *curl wttr.in/Kolkata*
+Change **Kolkata** to your city
+![alt text](https://i.ibb.co/yYWGm0L/Nano-weather-2.jpg)
+Now type *ctrl+X*
+
+Then *y*
+
+And *enter*
+
+And *chmod +x weather*
 
 
+just type *weather* in your terminal
+
+![alt text](https://i.ibb.co/6ZWsmc4/Weather-Kolkata.jpg)
 # Usage
   *curl wttr.in/Kolkata*
+
+
+
     *curl wttr.in/name of city*
 
 # Original
@@ -24,3 +45,4 @@ it is done by using curl
 Visit original one for more info
 
 It took me 1hr to find this working with termux
+# The_Eagle is my name in termux
