@@ -17,12 +17,14 @@ it is done by using curl
 In home directory ($HOME) 
 
 Type *nano weather* 
+
 Will create a new file called weather
  ![alt text](https://i.ibb.co/myMf1m2/nano-weather.jpg)
 
 In nano weather type
 
  *curl wttr.in/Kolkata*
+
 Change **Kolkata** to your city
 ![alt text](https://i.ibb.co/yYWGm0L/Nano-weather-2.jpg)
 Now type *ctrl+X*
