@@ -35,7 +35,7 @@ And *enter*
 
 And *chmod +x weather*
 
-And *mv weather /data/data/com.termux/files/usr/bin
+And *mv weather /data/data/com.termux/files/usr/bin*
 
 
 just type *weather* in your terminal
