@@ -14,7 +14,9 @@ it is done by using curl
 
 **Other os** *sudo apt-get install curl*
 # make weather a internal command
- *nano weather* 
+In home directory ($HOME) 
+
+Type *nano weather* 
 Will create a new file called weather
  ![alt text](https://i.ibb.co/myMf1m2/nano-weather.jpg)
 
