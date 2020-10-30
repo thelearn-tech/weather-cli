@@ -25,8 +25,9 @@ In nano weather type
 
  *curl wttr.in/Kolkata*
 
-Change **Kolkata** to your city
+(Change **Kolkata** to your city)
 ![alt text](https://i.ibb.co/yYWGm0L/Nano-weather-2.jpg)
+
 Now type *ctrl+X*
 
 Then *y*
