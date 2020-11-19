@@ -1,5 +1,5 @@
 # weather-cli
-How to get weather in termux or in any cli systems
+How to get weather report in CLI , Auto installation script
 
 Install get weather report of your city in Linux in CLI mode
 
@@ -20,6 +20,8 @@ Install get weather report of your city in Linux in CLI mode
 ***cd weather-cli***
 
 ***sh install.sh***
+
+
 ![alt text](https://i.ibb.co/6ZWsmc4/Weather-Kolkata.jpg)
 
 
