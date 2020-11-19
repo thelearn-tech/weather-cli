@@ -1,55 +1,33 @@
 # weather-cli
-How to get weather in termux or in any cli system
+How to get weather in termux or in any cli systems
+
+Install get weather report of your city in Linux in CLI mode
 
 
+# installation in termux
 
-This command will allow you to view weather in in termux 
-or in any cli system
+***git clone https://github.com/thelearn-tech/weather-cli***
 
-# Installation
-it is done by using curl
- So for os to os it differ(installation of curl)
+***cd weather-cli***
 
-**Termux** *pkg install curl*
-
-**Other os** *sudo apt-get install curl*
-# make weather a internal command
-In home directory ($HOME) 
-
-Type *nano weather* 
-
-Will create a new file called weather
- ![alt text](https://i.ibb.co/myMf1m2/nano-weather.jpg)
-
-In nano weather type
-
- *curl wttr.in/Kolkata*
-
-(Change **Kolkata** to your city)
-![alt text](https://i.ibb.co/yYWGm0L/Nano-weather-2.jpg)
-
-Now type *ctrl+X*
-
-Then *y*
-
-And *enter*
-
-And *chmod +x weather*
-
-And *mv weather /data/data/com.termux/files/usr/bin*
+***sh termux-install.sh***
 
 
-just type *weather* in your terminal
+# Installation other Linux OS(Rasbian,Kali,ubantu etc)
 
+***git clone https://github.com/thelearn-tech/weather-cli***
+
+***cd weather-cli***
+
+***sh install.sh***
 ![alt text](https://i.ibb.co/6ZWsmc4/Weather-Kolkata.jpg)
-# Usage
-  *curl wttr.in/Kolkata*
 
-*curl wttr.in/name of city*
 
 # Original
   *https://github.com/chubin/wttr.in*
 Visit original one for more info
 
-It took me 1hr to find this working with termux
+It took me quite a long to find this working with termux
 # The_Eagle is my name in termux
+# Warning
+If you copy don't forget to give me credit
