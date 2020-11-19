@@ -13,7 +13,7 @@ Install get weather report of your city in Linux in CLI mode
 ***sh termux-install.sh***
 
 
-# Installation other Linux OS(Rasbian,Kali,ubantu etc)
+# Installation for other Linux OS (Rasbian,Kali,ubantu etc)
 
 ***git clone https://github.com/thelearn-tech/weather-cli***
 
