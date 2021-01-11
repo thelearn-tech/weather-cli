@@ -8,7 +8,7 @@ echo Enter name of your city
 read a
 cd $PREFIX/bin
 touch weather
-echo "curl wttr.in/$a" >> weather
+echo "curl -s wttr.in/$a | head -7" >> weather
 chmod +x weather
 printf '\033[32m';echo now type weather in
 echo in your terminal to see weather of
