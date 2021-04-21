@@ -30,6 +30,6 @@ Install get weather report of your city in Linux in CLI mode
 Visit original one for more info
 
 It took me quite a long to find this working with termux
-# The_Eagle is my name in termux
+
 # Warning
 If you copy don't forget to give me credit
